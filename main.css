@@ -1,3 +1,24 @@
 body {
-  background-color: coral;
+  background-image: url(https://media.istockphoto.com/id/177771718/photo/image-set-of-six-tropical-fish.jpg?s=612x612&w=0&k=20&c=M9xaHPvNQqqA74cQ_9hpo8BvfNmtDJnKKPNKHaXPxTY=);
+}
+article{
+  padding: 15px;
+}
+h2{
+  color: blue;
+}
+p{
+  color:darkblue;
+}
+#articleOne{
+  font-family: monospace;
+  border: 4px dotted orange;
+}
+#articleTwo{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 5px dashed greenyellow
+}
+#articleThree{
+  font-family: fantasy;
+  border: 7px solid black ;
 }
